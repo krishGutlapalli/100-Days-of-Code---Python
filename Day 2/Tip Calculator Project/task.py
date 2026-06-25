@@ -7,3 +7,5 @@ people = int(input("How many people to split the bill? "))
 personpays = (billandtip / people)
 print(f"Each person pays: {(round(personpays, 4))}")
 
+
+#tesoidafghjspdofigh
