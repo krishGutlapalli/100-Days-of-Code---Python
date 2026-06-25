@@ -8,4 +8,3 @@ personpays = (billandtip / people)
 print(f"Each person pays: {(round(personpays, 4))}")
 
 
-#tesoidafghjspdofigh
